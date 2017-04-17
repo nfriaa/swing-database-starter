@@ -1,5 +1,5 @@
 # swing-database-starter-1.0.0
-A Sample Swing Database / CRUD Application 
+A Sample Swing Database / CRUD Application. 
 
 ## Description
 A sample Swing Database / CRUD Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
@@ -27,7 +27,7 @@ To use this code in your project or to start a new application using this approa
 ```
 $ git clone https://github.com/nfriaa/swing-desktop-starter /your-local-path/your-project-name
 ```
-Also in pom.xml file change : 
+Also in **pom.xml** file change : 
 ```xml
 <artifactId>swing-database-starter</artifactId>
 ```
