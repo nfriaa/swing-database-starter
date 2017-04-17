@@ -1,4 +1,4 @@
-# swing-desktop-starter-1.0.0
+# swing-database-starter-1.0.0
 A Sample Swing Database / CRUD Application 
 
 ## Description
