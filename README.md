@@ -25,7 +25,7 @@ java -jar swing-database-starter.jar &
 ## Clone and create your project
 To use this code in your project or to start a new application using this approach you can type in terminal : 
 ```
-$ git clone https://github.com/nfriaa/swing-desktop-starter /your-local-path/your-project-name
+$ git clone https://github.com/nfriaa/swing-database-starter /your-local-path/your-project-name
 ```
 Also in **pom.xml** file change : 
 ```xml
