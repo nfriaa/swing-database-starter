@@ -1,7 +1,7 @@
 # swing-database-starter-1.0.0
 A Sample Swing Database / CRUD Application. 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nfriaa/swing-database-starter/issues) (https://img.shields.io/badge/Licence-MIT-yellow.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nfriaa/swing-database-starter/issues) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 
 ## Description
 A sample Swing Database / CRUD Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
