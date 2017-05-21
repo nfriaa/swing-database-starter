@@ -3,6 +3,8 @@ A Sample Swing Database / CRUD Application.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nfriaa/swing-database-starter/issues)
 
+[![HitCount](https://hitt.herokuapp.com/{nfriaa}/{swing-database-starter}.svg)](https://github.com/{nfriaa}/{swing-database-starter})
+
 ## Description
 A sample Swing Database / CRUD Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
 The application is pre-configured with Maven, Log4j and auto load properties files under `resources` folder.  
