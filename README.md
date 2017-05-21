@@ -3,7 +3,7 @@ A Sample Swing Database / CRUD Application.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nfriaa/swing-database-starter/issues)
 
-[![HitCount](https://hitt.herokuapp.com/nfriaa/swing-database-starter.svg)](https://github.com/nfriaa/swing-database-starter)
+[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg)]()
 
 ## Description
 A sample Swing Database / CRUD Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
