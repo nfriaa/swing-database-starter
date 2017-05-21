@@ -1,6 +1,8 @@
 # swing-database-starter-1.0.0
 A Sample Swing Database / CRUD Application. 
 
+Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nfriaa/swing-database-starter/issues)
+
 ## Description
 A sample Swing Database / CRUD Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
 The application is pre-configured with Maven, Log4j and auto load properties files under `resources` folder.  
